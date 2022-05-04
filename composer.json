@@ -1,0 +1,18 @@
+{
+    "name": "solisjm/my-package",
+    "description": "This is my first package!",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Solisjm\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jai Juan Solis",
+            "email": "solisjm@miamioh.edu"
+        }
+    ],
+    "require": {}
+}
